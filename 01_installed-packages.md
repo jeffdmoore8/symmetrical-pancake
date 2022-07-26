@@ -1,7 +1,7 @@
 01_installed-packages.R
 ================
 jeffmoore
-2022-07-25
+2022-07-26
 
 ``` r
 library(tidyverse)
@@ -27,4 +27,6 @@ ipt <- installed.packages() %>%
   as_tibble() %>%
   select(Package, LibPath, Version, Priority, Built) %>%
   write_csv(here('installed-packages.csv'))
+
+# Comments on local Git.
 ```

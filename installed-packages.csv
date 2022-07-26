@@ -52,6 +52,7 @@ generics,/Library/Frameworks/R.framework/Versions/4.2-arm64/Resources/library,0.
 gert,/Library/Frameworks/R.framework/Versions/4.2-arm64/Resources/library,1.6.0,NA,4.2.0
 ggplot2,/Library/Frameworks/R.framework/Versions/4.2-arm64/Resources/library,3.3.6,NA,4.2.0
 gh,/Library/Frameworks/R.framework/Versions/4.2-arm64/Resources/library,1.3.0,NA,4.2.0
+gitcellar,/Library/Frameworks/R.framework/Versions/4.2-arm64/Resources/library,0.0.0.9000,NA,4.2.1
 gitcreds,/Library/Frameworks/R.framework/Versions/4.2-arm64/Resources/library,0.1.1,NA,4.2.0
 glue,/Library/Frameworks/R.framework/Versions/4.2-arm64/Resources/library,1.6.2,NA,4.2.0
 googledrive,/Library/Frameworks/R.framework/Versions/4.2-arm64/Resources/library,2.0.0,NA,4.2.0
@@ -119,6 +120,7 @@ readxl,/Library/Frameworks/R.framework/Versions/4.2-arm64/Resources/library,1.4.
 rematch,/Library/Frameworks/R.framework/Versions/4.2-arm64/Resources/library,1.0.1,NA,4.2.0
 rematch2,/Library/Frameworks/R.framework/Versions/4.2-arm64/Resources/library,2.1.2,NA,4.2.0
 remotes,/Library/Frameworks/R.framework/Versions/4.2-arm64/Resources/library,2.4.2,NA,4.2.0
+renv,/Library/Frameworks/R.framework/Versions/4.2-arm64/Resources/library,0.15.5,NA,4.2.0
 reprex,/Library/Frameworks/R.framework/Versions/4.2-arm64/Resources/library,2.0.1,NA,4.2.0
 rlang,/Library/Frameworks/R.framework/Versions/4.2-arm64/Resources/library,1.0.4,NA,4.2.0
 rmarkdown,/Library/Frameworks/R.framework/Versions/4.2-arm64/Resources/library,2.14,NA,4.2.0
